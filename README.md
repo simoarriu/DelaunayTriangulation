@@ -34,8 +34,8 @@ This class is used to compute and update the triangulation: we store the points 
 **Algorithms**
 
 The folder “Algorithms“ contains the two main algorithms used to compute the Delaunay triangulation, that is the following two classes:
-• DelaunayTriangulationAlgorithm
-• LegalizeEdge
+* DelaunayTriangulationAlgorithm
+* LegalizeEdge
 
 **DelaunayTriangulationAlgorithm**
 
